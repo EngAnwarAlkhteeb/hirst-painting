@@ -17,7 +17,7 @@ The script first extracts colors from an image file using the `colorgram` librar
 2. Run the color extraction script to get the list of colors:
 
     ```bash
-    colorgram.extract('Image.jpg', 30)
+    colorgram.extract('color.jpg', 30)
     ```
 
 
